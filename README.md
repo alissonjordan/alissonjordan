@@ -6,7 +6,7 @@ meu nome é Alisson gabriel lorenço Jordan
 -estou me desevolvendo na liguagem javascript
 -utilizo este espaço para minha organização e compatilhamento dos meus projetos desenvolvidos 
 
-### voce podi entrar em contato comigo📧
+### voce pode entrar em contato comigo📧
 
 alisson.jordan@escola.pr.gov.br
 
